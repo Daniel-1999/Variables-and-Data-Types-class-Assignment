@@ -4,14 +4,16 @@ Welcome the Variables and Data Types class assignment. In this assignment, we wi
 
 ## Instructions
 
-1. clone this repository
+1. Fork the repo
+
+2. clone this repository
 
 ```bash
 git clone  https://github.com/JS-TS-Coding-Wizards/Variables-and-Data-Types-class-Assignment
 
 ```
 
-2. Create a new branch with your name and checkout to that branch
+3. Create a new branch with your name and checkout to that branch
 
 ```bash
 
@@ -19,9 +21,9 @@ git checkout -b <your-name>
 
 ```
 
-3. Open the project in your favorite code editor and complete the assignment
+4. Open the project in your favorite code editor and complete the assignment
 
-4. After completing the assignment, push your code to the remote repository
+5. After completing the assignment, push your code to the remote repository
 
 ```bash
 
@@ -33,7 +35,7 @@ git push origin <your-branch-name>
 
 ```
 
-5. Create a pull request to the main branch
+6. Create a pull request to the main branch
 
 ### Assignment: Variables and Data Types
 
